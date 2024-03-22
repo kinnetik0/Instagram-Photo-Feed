@@ -1,0 +1,50 @@
+body{
+    background-color: rgba(204, 202, 202, 0.863);
+}
+h1{
+    text-align: center;
+    background-color: white;
+    margin-top: 0;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+.breathe{  
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 33%;
+    background-color: white;
+    width: 567px;
+}
+
+.feed-photos{
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    margin-bottom: 5px; 
+}
+.headfeed{
+    display: flex;
+    justify-content: space-between;
+    width: 567px;
+    height: 20px;
+    margin-bottom: 10px;
+}
+.photofeed{
+    width: 567px;
+}
+.descriptionphoto{
+    width: 567px;
+    text-align: justify !important;
+}
+.text{
+    font-size: 1.5em;
+    font-weight: bolder;
+}
+.number{
+    color: rgb(156, 155, 155);
+}
+img{
+    width: 567px;
+    height: 375px;
+}
